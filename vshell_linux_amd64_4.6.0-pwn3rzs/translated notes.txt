@@ -1,0 +1,17 @@
+1. Support covert channels of multiple protocols (TCP, UDP/KCP, WebSocket, DNS, DOH, DOT)
+
+2. Supports management functions such as file management, terminal, screen capture, startup, etc. 
+
+3. Supports the memory to run plug-ins in multiple formats (exe, .net, elf, dll, so, dylib)
+
+4. Support tunnel proxies for multiple protocols 
+
+5. Support forward and reverse connection modes, support proxy online 
+
+6. Support Windows shellcode client 
+
+7. Support domain name online, CDN online 
+
+8. Support ebpf client to penetrate firewall (demo video: https://www.bilibili.com/video/BV1Vw411t78a)
+
+
